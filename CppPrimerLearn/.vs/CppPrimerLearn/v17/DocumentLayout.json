@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Code\u4ED3\u5E93\\Cpp-Primer\\CppPrimerLearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{864E17B8-87E5-435A-80C6-F5B519B5CC99}|CppPrimerLearn\\CppPrimerLearn.vcxproj|F:\\Code\u4ED3\u5E93\\Cpp-Primer\\CppPrimerLearn\\CppPrimerLearn\\1,1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{864E17B8-87E5-435A-80C6-F5B519B5CC99}|CppPrimerLearn\\CppPrimerLearn.vcxproj|solutionrelative:CppPrimerLearn\\1,1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1,1.cpp",
+              "DocumentMoniker": "F:\\Code\u4ED3\u5E93\\Cpp-Primer\\CppPrimerLearn\\CppPrimerLearn\\1,1.cpp",
+              "RelativeDocumentMoniker": "CppPrimerLearn\\1,1.cpp",
+              "ToolTip": "F:\\Code\u4ED3\u5E93\\Cpp-Primer\\CppPrimerLearn\\CppPrimerLearn\\1,1.cpp",
+              "RelativeToolTip": "CppPrimerLearn\\1,1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T15:07:10.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

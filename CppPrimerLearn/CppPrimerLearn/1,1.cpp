@@ -19,6 +19,32 @@ void T1_5()
     std::cout << std::endl;
 }
 
+void T1_8()
+{
+    std::cout << "/*";
+    std::cout << "*/";
+}
+
+void T1_9()
+{
+    long long sum = 0;
+    for (int i = 50; i < 101; ++i)
+    {
+        sum += 50;
+    }
+    std::cout << sum << std::endl;
+}
+
+void T1_10()
+{
+    for (int i = 10; i >= 0; --i)
+    {
+        std::cout << i << std::endl;
+    }
+}
+
+
+
 int main()
 {
     //return -1;
@@ -26,5 +52,7 @@ int main()
     std::cout << "Hello World!" << std::endl;
     T1_4();
     T1_5();
+    T1_9();
+    T1_10();
     return 0;
 }
